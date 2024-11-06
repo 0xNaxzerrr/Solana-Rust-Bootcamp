@@ -1,30 +1,39 @@
-Decentralized Version of Monopoly : 
+# Decentralized Version of Monopoly
 
-What are the essential pieces of functionality ?
+## Essential Pieces of Functionality
 
-- SPL Token : Money of the game, buy & sell properties
-- NFTs : Properties
-- Escrow Service : Secure payment
-- Oracle VRF : Provide randomness for the game
-- Auction Program : Enable bidding
+- **SPL Token**: Serves as the in-game currency, used for buying and selling properties.
+- **NFTs**: Represent ownership of properties within the game.
+- **Escrow Service**: Ensures secure payments between players.
+- **Oracle VRF (Verifiable Random Function)**: Provides randomness for gameplay elements.
+- **Auction Program**: Enables bidding for properties and assets.
 
-How could people cheat ?
+---
 
-- Exploiting vulnerabilities in web2 systems
-- Manipulating game randomness
+## How Could People Cheat?
 
-How could you prevent them from cheating ?
+- Exploiting vulnerabilities in Web2 systems.
+- Manipulating game randomness to gain unfair advantages.
 
-- Transaction with escrow service
-- Using Oracle VRF to get fair randomness
-- Implementing NFTs to verify ownership
+## How to Prevent Cheating
 
-Do you feel that Central Bank Digital Currencies (CBDCs) are a move towards decentralisation? Will they help or hinder adoption of other cryptocurrencies?
+- **Escrow Transactions**: Secure transactions using escrow to prevent tampering.
+- **Oracle VRF**: Ensure fair and verifiable randomness.
+- **NFT Ownership Verification**: Use NFTs to verify true ownership of properties, preventing duplicate or false claims.
 
-Central Bank Digital Currencies (CBDCs) are not a move toward decentralization; they are inherently centralized, controlled by central banks. While they might increase public familiarity with digital payments, potentially driving interest in digital assets, they could also hinder the adoption of decentralized cryptocurrencies. CBDCs may lead to stricter regulations on other cryptos, especially if policies are designed to favor state-backed digital currencies.
+---
 
+## Are Central Bank Digital Currencies (CBDCs) a Move Toward Decentralization?
 
-Links : 
-- https://zeroknowledge.fm/135-2/
-- https://solana.bootcampnotes.xyz/lesson1.html#/
-- https://www.youtube.com/watch?v=SLsuLW8QhD8
+Central Bank Digital Currencies (CBDCs) are not a move toward decentralization; they are centrally controlled by central banks. Although they may increase public familiarity with digital payments, potentially driving interest in digital assets, they could also hinder the adoption of decentralized cryptocurrencies. CBDCs might lead to stricter regulations on other cryptocurrencies, especially if policies are designed to favor state-backed digital currencies.
+
+---
+
+## Useful Links
+
+- [Zero Knowledge Podcast](https://zeroknowledge.fm/135-2/)
+- [Solana Bootcamp Notes - Lesson 1](https://solana.bootcampnotes.xyz/lesson1.html#/)
+- [YouTube Video: Solana Overview](https://www.youtube.com/watch?v=SLsuLW8QhD8)
+
+---
+
