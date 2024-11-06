@@ -4,7 +4,7 @@ What are the essential pieces of functionality ?
 
 - SPL Token : Money of the game, buy & sell properties
 - NFTs : Properties
-- Escrow Service : 
+- Escrow Service : Secure payment
 - Oracle VRF : Provide randomness for the game
 - Auction Program : Enable bidding
 
@@ -25,6 +25,6 @@ Central Bank Digital Currencies (CBDCs) are not a move toward decentralization; 
 
 
 Links : 
-https://zeroknowledge.fm/135-2/
-https://solana.bootcampnotes.xyz/lesson1.html#/
-https://www.youtube.com/watch?v=SLsuLW8QhD8
+- https://zeroknowledge.fm/135-2/
+- https://solana.bootcampnotes.xyz/lesson1.html#/
+- https://www.youtube.com/watch?v=SLsuLW8QhD8
