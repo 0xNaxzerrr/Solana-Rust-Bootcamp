@@ -45,6 +45,6 @@ fn main() {
 cargo run
 ```
 
-Links :
-- https://solana.bootcampnotes.xyz/lesson2.html#/
-- https://www.youtube.com/watch?v=C0udtqqHF_E
+## Useful Links
+- [Solana Bootcamp Notes - Lesson 2](https://solana.bootcampnotes.xyz/lesson2.html#/)
+- [YouTube Video: Solana Overview](https://www.youtube.com/watch?v=C0udtqqHF_E)
