@@ -1,0 +1,20 @@
+# Fichiers et dossiers générés par Cargo
+/target/
+/**/*.rs.bk
+
+# Fichiers de logs et temporaires
+**/*.log
+**/*.tmp
+**/*.swp
+
+# Configurations spécifiques à l'utilisateur
+Cargo.lock
+/.idea/
+/.vscode/
+/*.iml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
