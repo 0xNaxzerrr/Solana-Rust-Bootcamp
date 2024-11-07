@@ -15,7 +15,7 @@
    - [Transaction Details](https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf): This transaction is burning tokens.
 
 **What is the largest balance you can find in an account?**  
-   - (To be researched or updated with the largest balance information.)
+   - Solana uses a 64-bit unsigned integer (uint64) to store token balances in SPL token accounts. Therefore, the maximum possible balance in a Solana account is (2 ^ 64) − 1
 
 **What advantages will the end user see when using Solana compared to other blockchains?**  
    - Solana offers **lower fees** and **higher transactions per second (TPS)** compared to many other blockchains.
