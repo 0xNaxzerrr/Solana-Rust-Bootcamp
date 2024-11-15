@@ -9,3 +9,4 @@
 ## Useful Links
 
 - [Solana Bootcamp Notes - Lesson 3](https://solana.bootcampnotes.xyz/lesson3.html#/)
+- [YouTube Video: Solana Overview](https://youtu.be/V6wdpUfgcGs)

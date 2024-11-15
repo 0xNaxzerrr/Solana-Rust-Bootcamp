@@ -70,3 +70,4 @@ There's a brute force solution that's a bit easier to figure out, but see if you
 - [Solana Docs - Accounts](https://solana.com/docs/core/accounts)
 - [Solana Wiki - Account model](https://solana.wiki/zh-cn/docs/account-model/)
 - [Solana Bootcamp Notes - Lesson 4](https://solana.bootcampnotes.xyz/lesson4.html#/)
+- [YouTube Video: Solana Overview](https://youtu.be/5Zpv9Q91qhA)
